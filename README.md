@@ -9,6 +9,10 @@ My Name is Sonja and I'm currently a student for web development.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love dragons! 🐉
 
+## Tools:
+
+
+
 <!--
 **Nimitya0711/nimitya0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
