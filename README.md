@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My Name is Sonja and I'm currently a student for web development.
+My Name is Sonja and I'm an eager student for web development.
 
 - 🔭 I’m currently working on something new to learn.
 - 🌱 I’m currently learning HTML, CSS and JS.
