@@ -10,6 +10,7 @@ My Name is Sonja and I'm currently a student for web development.
 - ⚡ Fun fact: I love dragons! 🐉
 
 ## Tools:
+![Visual Studio Code](./tools-images/icons8-visual-studio-code-48.png) ![HTML 5](./tools-images/icons8-html-5-48.png) ![CSS 3](./tools-images/icons8-css-48.png) ![GitHub](./tools-images/icons8-github-49.png)
 
 
 
