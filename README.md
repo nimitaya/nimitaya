@@ -5,7 +5,7 @@ My Name is Sonja and I'm an eager student for web development, who just started 
 - 🔭 I’m currently working on something new to learn.
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 🤔 I’m looking for help with getting started and ideas for first projects.
-- 📫 How to reach me: nimitya (Discord), nimitya0711 (Instagram)
+- 📫 How to reach me: nimitya (Discord), nimiitya (Instagram)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love dragons! 🐉
 
