@@ -11,7 +11,7 @@ My Name is Sonja and I'm an eager student for web development, who just started 
 
 ## Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,github,bootstrap)](https://skillicons.dev)
 
 
 
