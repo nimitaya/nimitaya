@@ -54,8 +54,8 @@ My Name is Sonja and I'm an eager student for web development, who just started 
 ## My Stats :
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/img/svg/undraw_programmer_raqr.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./assets/img/svg/undraw_relaunch-day_k3qo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&layout=compact">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&layout=compact">
 </picture>
 
 ---
