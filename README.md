@@ -3,6 +3,8 @@
 
 <h1 style="color: #c792ea">Hello there 👋</h1>
 
+# $$\color{#c792ea} Hello \space there $$
+
 My Name is Sonja and I'm an eager student for web development, who just started into this new world.
 
 <div id="badges">
