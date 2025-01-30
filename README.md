@@ -54,8 +54,8 @@ My Name is Sonja and I'm an eager student for web development, who just started 
 ## My Stats :
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/img/svg/undraw_programmer_raqr.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./assets/img/svg/undraw_relaunch-day_k3qo.svg">
 </picture>
 
 ---
