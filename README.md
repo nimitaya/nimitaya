@@ -4,19 +4,19 @@
 # Hello there 👋
 
 <div id="badges">
-  <a href="">
+  <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://discord.com/users/nimitya" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Dicord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="">
+  <a href="mailto:sonja.schweren@dci-student.org" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="">
+ 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge"/>
-  </a>
-  <a href="">
+  
+  <a href="https://www.instagram.com/nimiitya" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -38,17 +38,17 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 
 ---
 
+<img src="./assets/img/undraw_my-universe_qqch.svg" width="250" align="right" alt=""/>
+
 ## About Me
-<div id="about-me">
-<ul>
-<li><img src="./assets/icons/atronaut.svg"> I’m currently working on something new to learn.</li>
-<li><img src="./assets/icons/seedling.svg"> I’m currently learning React.</li>
-<li><img src="./assets/icons/lightbulb.svg"> I’m looking for help with getting started and ideas for first projects.</li>
-<li><img src="./assets/icons/mail.svg"> How to reach me: nimitya (Discord), nimiitya (Instagram)</li>
-<li><img src="./assets/icons/smiley.svg"> Fun fact: I love dragons! <img src="./assets/icons/dragon.svg"></li>
-</ul>
-<img src="./assets/img/undraw_my-universe_qqch.svg" width="300" alt=""/>
-</div>
+
+
+- <img src="./assets/icons/atronaut.svg"> I’m currently working on something new to learn.
+- <img src="./assets/icons/seedling.svg"> I’m currently learning React.
+- <img src="./assets/icons/lightbulb.svg"> I’m looking for help with getting started and ideas for first projects.
+- <img src="./assets/icons/mail.svg"> How to reach me: Linkedin, Discord (nimitya), Email, Slack, Instagram (nimiitya)
+- <img src="./assets/icons/headphones.svg"> Favourite music to code to: Hans Zimmer Soundtracks.
+- <img src="./assets/icons/smiley.svg"> Fun fact: I love dragons! <img src="./assets/icons/dragon.svg">
 
 ---
 
@@ -67,13 +67,13 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 
 <div id="Stats" align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&layout=compact">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&count_private=true">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&count_private=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&count_private=true">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&layout=compact">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&layout=compact">
 </picture>
 </div>
 
