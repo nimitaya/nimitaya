@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=nimitaya&style=flat-square&color=C792EA" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nimitaya&style=flat-square&color=fc7067" alt=""/>
 
 My Name is **Sonja** and I'm a future web developer, who just started into this new world.
 
@@ -35,7 +35,7 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 
 ---
 
-<img src="./assets/img/undraw_my-universe_qqch.svg" width="250" align="right" alt=""/>
+<img src="./assets/img/red-undraw_my-universe_qqch.svg" width="250" align="right" alt=""/>
 
 ## About Me
 
@@ -63,13 +63,13 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 
 <div id="Stats" align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&count_private=true">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nimitaya&theme=onedark&show_icons=true&hide_border=false&count_private=true">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=nimitaya&theme=rose&show_icons=true&hide_border=false&count_private=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&layout=compact">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=onedark&show_icons=true&hide_border=false&layout=compact">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=rose&show_icons=true&hide_border=false&layout=compact">
 </picture>
 </div>
 
@@ -80,15 +80,19 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 
 <!-- Dark:
 ![nimitaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+ROT ----- https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=onedark&show_icons=true&hide_border=false&layout=compact
 ![nimitaya's Stats](https://github-readme-stats.vercel.app/api?username=nimitaya&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+ROT ----- https://github-readme-stats.vercel.app/api?username=nimitaya&theme=onedark&show_icons=true&hide_border=false&count_private=true
 ![nimitaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimitaya&theme=nightowl&hide_border=false) -->
 
 <!-- Light:
 ![nimitaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&layout=compact)
+ROT ----- https://github-readme-stats.vercel.app/api/top-langs/?username=nimitaya&theme=rose&show_icons=true&hide_border=false&layout=compact
 ![nimitaya's Stats](https://github-readme-stats.vercel.app/api?username=nimitaya&theme=buefy&show_icons=true&hide_border=false&count_private=true)
+ROT ----- https://github-readme-stats.vercel.app/api?username=nimitaya&theme=rose&show_icons=true&hide_border=false&count_private=true
 ![nimitaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimitaya&theme=buefy&hide_border=false) -->
 
 <!-- Used for view Counter https://github.com/antonkomarev/github-profile-views-counter -->
 
 <!-- <h1 style="color: #c792ea">Hello there 👋</h1> -->
-<!-- # $$\color{#c792ea} Hello \space there $$ -->
+<!--Neue Farbe #fc7067 -->
