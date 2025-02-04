@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5ka2gyMXBqdGhvbXJhOHBvaTdlZmc4eXF2dWxiYW9ud3BpdmV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8vvNfLiB5Wm9Zx0SWt/giphy.gif" width="150"/>
 
-# Hello there 👋
+# Hello there <img src="./assets/icons/spock.svg">
 
 <div id="badges">
-  <a href="" target="_blank" rel="noopener noreferrer">
+  <a href="linkedin.com/in/sonja-schweren-b06b1a294" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.com/users/nimitya" target="_blank" rel="noopener noreferrer">
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=nimitaya&style=flat-square&color=5865F2" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nimitaya&style=flat-square&color=C792EA" alt=""/>
 
 My Name is **Sonja** and I'm a future web developer, who just started into this new world.
 
@@ -33,15 +33,11 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JrYWs3NHJyZDNmbDZ2cnQ1Z2RtMXJqcmVyZTh1cGs3bmltejI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eKaOSjbqk8q8xbmLrT/giphy.gif"/>
 </div>
 
-<!-- TODO -->
-<!-- find a way to display img aside text -->
-
 ---
 
 <img src="./assets/img/undraw_my-universe_qqch.svg" width="250" align="right" alt=""/>
 
 ## About Me
-
 
 - <img src="./assets/icons/atronaut.svg"> I’m currently working on something new to learn.
 - <img src="./assets/icons/seedling.svg"> I’m currently learning React.
