@@ -49,12 +49,12 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 ## Tools:
 <div id="tools" align="center">
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react)](https://skillicons.dev)
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react&theme=light">
-</picture>
+</picture> -->
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExengzbzgxNzdvbXZqMHo0bHdraGdwcTFpbDdqcXhvNGd1bGVkdDh4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w3YqkEzfYli36/giphy.gif" width="230"/>
 
