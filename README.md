@@ -28,8 +28,6 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 </div>
 
 <div id="banner" align="center">
-<!-- <img src="./assets/img/undraw_programmer_raqr.svg" height="200">
-<img src="./assets/img/undraw_relaunch-day_k3qo.svg" height="200"> -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JrYWs3NHJyZDNmbDZ2cnQ1Z2RtMXJqcmVyZTh1cGs3bmltejI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eKaOSjbqk8q8xbmLrT/giphy.gif"/>
 </div>
 
@@ -42,7 +40,7 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 - <img src="./assets/icons/atronaut.svg"> I’m currently working on something new to learn.
 - <img src="./assets/icons/seedling.svg"> I’m currently learning React.
 - <img src="./assets/icons/lightbulb.svg"> I’m looking for help with getting started and ideas for first projects.
-- <img src="./assets/icons/mail.svg"> How to reach me: Linkedin, Discord (nimitya), Email, Slack, Instagram (nimiitya)
+- <img src="./assets/icons/mail.svg"> How to reach me: [Linkedin](linkedin.com/in/sonja-schweren-b06b1a294), [Discord](https://discord.com/users/nimitya), Email, Slack, [Instagram](https://www.instagram.com/nimiitya)
 - <img src="./assets/icons/headphones.svg"> Favourite music to code to: Hans Zimmer Soundtracks.
 - <img src="./assets/icons/smiley.svg"> Fun fact: I love dragons! <img src="./assets/icons/dragon.svg">
 
@@ -51,7 +49,12 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 ## Tools:
 <div id="tools" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react)](https://skillicons.dev) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react&theme=light">
+</picture>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExengzbzgxNzdvbXZqMHo0bHdraGdwcTFpbDdqcXhvNGd1bGVkdDh4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w3YqkEzfYli36/giphy.gif" width="230"/>
 
