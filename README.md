@@ -4,7 +4,7 @@
 # Hello there <img src="./assets/icons/spock.svg">
 
 <div id="badges">
-  <a href="linkedin.com/in/sonja-schweren-b06b1a294" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/sonja-schweren-b06b1a294" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.com/users/nimitya" target="_blank" rel="noopener noreferrer">
