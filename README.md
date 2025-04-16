@@ -49,7 +49,7 @@ My Name is **Sonja** and I'm a future web developer, who just started into this 
 ## Tools:
 <div id="tools" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react,mongodb,postman)](https://skillicons.dev)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,github,git,html,css,tailwind,bootstrap,sass,js,ts,vite,jquery,react">
